@@ -34,7 +34,7 @@ A Python-based web application that generates personalized PDF certificates in b
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/thaveedh/bulk-certificate-generator/
 cd bulk-certificate-generator
 ```
 
